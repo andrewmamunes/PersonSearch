@@ -1,0 +1,16 @@
+C:\Development\DataStructures\Search\bin\Debug\netcoreapp3.0\Search.exe
+C:\Development\DataStructures\Search\bin\Debug\netcoreapp3.0\Search.deps.json
+C:\Development\DataStructures\Search\bin\Debug\netcoreapp3.0\Search.runtimeconfig.json
+C:\Development\DataStructures\Search\bin\Debug\netcoreapp3.0\Search.runtimeconfig.dev.json
+C:\Development\DataStructures\Search\bin\Debug\netcoreapp3.0\Search.dll
+C:\Development\DataStructures\Search\bin\Debug\netcoreapp3.0\Search.pdb
+C:\Development\DataStructures\Search\bin\Debug\netcoreapp3.0\TrieNet.dll
+C:\Development\DataStructures\Search\obj\Debug\netcoreapp3.0\Search.csprojAssemblyReference.cache
+C:\Development\DataStructures\Search\obj\Debug\netcoreapp3.0\Search.AssemblyInfoInputs.cache
+C:\Development\DataStructures\Search\obj\Debug\netcoreapp3.0\Search.AssemblyInfo.cs
+C:\Development\DataStructures\Search\obj\Debug\netcoreapp3.0\Search.csproj.CoreCompileInputs.cache
+C:\Development\DataStructures\Search\obj\Debug\netcoreapp3.0\Search.csproj.CopyComplete
+C:\Development\DataStructures\Search\obj\Debug\netcoreapp3.0\Search.dll
+C:\Development\DataStructures\Search\obj\Debug\netcoreapp3.0\Search.pdb
+C:\Development\DataStructures\Search\obj\Debug\netcoreapp3.0\Search.genruntimeconfig.cache
+C:\Development\DataStructures\Search\bin\Debug\netcoreapp3.0\Data\Names.txt

@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Search/1.0.0": {
+        "dependencies": {
+          "VPG.TrieNet": "1.5.0"
+        },
+        "runtime": {
+          "Search.dll": {}
+        }
+      },
+      "VPG.TrieNet/1.5.0": {
+        "runtime": {
+          "lib/netstandard2.0/TrieNet.dll": {
+            "assemblyVersion": "1.0.4.0",
+            "fileVersion": "1.0.4.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Search/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VPG.TrieNet/1.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WxUA1tA/oVP9pmqL16iJZCXDjhX+VIVHtpZjQjAzX6KR3ols6br9qvWNaGBnKpKfYeHFAGzj+dE+SY767g/BTg==",
+      "path": "vpg.trienet/1.5.0",
+      "hashPath": "vpg.trienet.1.5.0.nupkg.sha512"
+    }
+  }
+}
